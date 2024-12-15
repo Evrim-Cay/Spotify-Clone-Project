@@ -15,3 +15,5 @@ Search functionality to find songs or artists
 Technologies Used
 
 Frontend: HTML, SCSS, JavaScript (Vanilla JS)
+
+![SpotifyClone-Personal-MicrosoftEdge2024-12-1501-54-50-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c1673d7d-2fde-42c2-9e08-38e2706f8e0c)
