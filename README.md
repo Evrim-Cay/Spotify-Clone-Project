@@ -1,8 +1,8 @@
-#Spotify Clone
+###Spotify Clone
 
-### A Spotify Clone web application built using JavaScript, HTML, and SCSS. This project replicates the basic design and functionality of Spotify.
+## A Spotify Clone web application built using JavaScript, HTML, and SCSS. This project replicates the basic design and functionality of Spotify.
 
-Features
+###Features
 
 Responsive and modern user interface
 
